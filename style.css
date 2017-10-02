@@ -1,0 +1,43 @@
+.juego{
+	background: black;
+	border: 2px dashed black;
+	position: relative;
+	height: 500px;
+	width: 100%;
+}
+.titulo{
+	color: white;
+}
+.tablero{
+	background: blue;
+	border: 2px dashed black;
+	position: absolute;
+	height: 340px;
+	width: 45%;
+	left:3%;
+}
+.cargar{
+	position: absolute;
+	background: red;
+	border-top: 2px dashed black;
+	height: 300px;
+	width: 100%;
+	top:40px;
+}
+.botoncargar{
+	position: absolute;
+	width: 100px;
+	height: 30px;
+	font-size: 15px;
+	top:450px;
+	left:82%;
+}
+.TCargar{
+	background: red;
+	border: 2px dashed black;
+	position: absolute;
+	height: 340px;
+	width: 45%;
+	left:52%;
+
+}
