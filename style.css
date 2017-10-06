@@ -19,7 +19,7 @@
 .cargar{
 	position: absolute;
 	background: red;
-	border-top: 2px dashed black;
+	border-top: 2px solid black;
 	height: 300px;
 	width: 100%;
 	top:40px;
@@ -34,7 +34,7 @@
 }
 .TCargar{
 	background: red;
-	border: 2px dashed black;
+	border: 2px solid black;
 	position: absolute;
 	height: 340px;
 	width: 45%;
